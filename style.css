@@ -12,9 +12,7 @@ body {
     display: flex;
     justify-content: center;
     align-items: center;
-    /* background-color: rgb(36, 31, 31); */
-    background-image: url(assest/1.jpg);
-    background-repeat:no-repeat ;
+    background-color: rgb(36, 31, 31); 
 }
 
 .container {
